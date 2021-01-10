@@ -1,0 +1,148 @@
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.exe
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.deps.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.runtimeconfig.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.runtimeconfig.dev.json
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.dll
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.pdb
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.csprojAssemblyReference.cache
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\staticwebassets\Lab_03.StaticWebAssets.Manifest.cache
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\staticwebassets\Lab_03.StaticWebAssets.xml
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.AssemblyInfoInputs.cache
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.AssemblyInfo.cs
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.RazorTargetAssemblyInfo.cache
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.dll
+C:\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.exe
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.deps.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.runtimeconfig.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.runtimeconfig.dev.json
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Lab_03.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\staticwebassets\Lab_03.StaticWebAssets.Manifest.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\staticwebassets\Lab_03.StaticWebAssets.xml
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.AssemblyInfoInputs.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.AssemblyInfo.cs
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.RazorTargetAssemblyInfo.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\obj\Debug\netcoreapp3.1\Lab_03.MvcApplicationPartsAssemblyInfo.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_03\Lab_03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

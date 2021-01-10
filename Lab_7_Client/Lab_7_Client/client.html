@@ -1,0 +1,46 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Lab_7</title>
+    <script src="jquery.js"></script>
+    <script>
+        function getNotes() {
+
+            const studentId = $("#studentId").val();
+            const format = $("#format").val();
+
+            $.ajax({
+                //url: "http://localhost:40001/Lab_7/Feed1/" + studentId + "?format=" + format,
+                url: "http://localhost:8733/Design_Time_Addresses/Lab_7/Feed1/1" ,
+                type: "GET",
+                crossDomain: true,
+                headers: { 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Content-Type', 'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS' },
+                dataType: "json",
+                contentType: "application/json; charset=utf-8",
+                //data: data,
+                success: result => {
+                    var res = result.responseText;
+                    document.getElementById("rsstext").value = res;
+                },
+                error: error => {
+                    var res = error.responseText;
+                    document.getElementById("rsstext").value = res;
+                }
+            })
+        }
+    </script>
+</head>
+<body>
+    <form id="getNotes" runat="server">
+        <div>
+            <div>
+                <input type="text" id="studentId" />
+                <input type="text" id="format" />
+                <input type="button" onclick="getNotes()" value="Get notes" />
+            </div>
+            <div>
+                <textarea id="rsstext" style="width: 550px; height: 300px;"></textarea>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

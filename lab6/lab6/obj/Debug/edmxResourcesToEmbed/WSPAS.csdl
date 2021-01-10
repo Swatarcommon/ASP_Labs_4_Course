@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WSPASModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NOTE">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="subject" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="note1" Type="Int32" />
+    <Property Name="student_id" Type="Int32" />
+    <NavigationProperty Name="STUDENT" Relationship="Self.FK__NOTE__student_id__267ABA7A" FromRole="NOTE" ToRole="STUDENT" />
+  </EntityType>
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NOTEs" Relationship="Self.FK__NOTE__student_id__267ABA7A" FromRole="STUDENT" ToRole="NOTE" />
+  </EntityType>
+  <Association Name="FK__NOTE__student_id__267ABA7A">
+    <End Role="STUDENT" Type="Self.STUDENT" Multiplicity="0..1" />
+    <End Role="NOTE" Type="Self.NOTE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STUDENT">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="NOTE">
+        <PropertyRef Name="student_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WSPASEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NOTEs" EntityType="Self.NOTE" />
+    <EntitySet Name="STUDENTs" EntityType="Self.STUDENT" />
+    <AssociationSet Name="FK__NOTE__student_id__267ABA7A" Association="Self.FK__NOTE__student_id__267ABA7A">
+      <End Role="STUDENT" EntitySet="STUDENTs" />
+      <End Role="NOTE" EntitySet="NOTEs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

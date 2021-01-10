@@ -1,0 +1,28 @@
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.dll.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.csprojAssemblyReference.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CopyComplete
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\bin\Debug\Lab_7.dll.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\bin\Debug\Lab_7.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\obj\Debug\Lab_7.csprojAssemblyReference.cache
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CopyComplete
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\obj\Debug\Lab_7.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7\obj\Debug\Lab_7.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\bin\Debug\Lab_7.dll.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\bin\Debug\Lab_7.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\bin\Debug\Lab_7.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\bin\Debug\Newtonsoft.Json.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\obj\Debug\Lab_7.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\obj\Debug\Lab_7.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7\obj\Debug\Lab_7.pdb

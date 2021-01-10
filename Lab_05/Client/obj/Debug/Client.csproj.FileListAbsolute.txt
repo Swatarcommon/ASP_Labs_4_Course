@@ -1,0 +1,13 @@
+D:\Univer\sem7\asp.net\labs\laba5\Client\bin\Debug\Client.exe.config
+D:\Univer\sem7\asp.net\labs\laba5\Client\bin\Debug\Client.exe
+D:\Univer\sem7\asp.net\labs\laba5\Client\bin\Debug\Client.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\asp.net\labs\laba5\Client\obj\Debug\Client.exe
+D:\Univer\sem7\asp.net\labs\laba5\Client\obj\Debug\Client.pdb
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\bin\Debug\Client.exe.config
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\bin\Debug\Client.exe
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\bin\Debug\Client.pdb
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\obj\Debug\Client.exe
+C:\Disk D\Studying\Course_4\ASP\laba5\Client\obj\Debug\Client.pdb

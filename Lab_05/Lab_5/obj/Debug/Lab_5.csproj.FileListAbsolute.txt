@@ -1,0 +1,21 @@
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\bin\Debug\Lab_5.dll.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\bin\Debug\Lab_5.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\obj\Debug\Lab_5.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_5\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+D:\ASP\5\Lab_5\Lab_5\bin\Debug\Lab_5.dll.config
+D:\ASP\5\Lab_5\Lab_5\bin\Debug\Lab_5.dll
+D:\ASP\5\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+D:\ASP\5\Lab_5\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+D:\ASP\5\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+D:\ASP\5\Lab_5\Lab_5\obj\Debug\Lab_5.dll
+D:\ASP\5\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\bin\Debug\Lab_5.dll.config
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\bin\Debug\Lab_5.dll
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\bin\Debug\Lab_5.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\obj\Debug\Lab_5.dll
+D:\Univer\sem7\asp.net\labs\laba5\Lab_5\obj\Debug\Lab_5.pdb

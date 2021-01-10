@@ -1,0 +1,167 @@
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.AppContext.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Collections.Immutable.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Console.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Compression.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.AccessControl.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Claims.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.ValueTuple.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csprojAssemblyReference.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csproj.CopyComplete
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.rsp
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.rsp
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.AppContext.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Console.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Compression.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Claims.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.ValueTuple.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.rsp
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csprojAssemblyReference.cache
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csproj.CopyComplete
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\Lab_7_Client.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csc.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\csi.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.AppContext.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Console.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Compression.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.IO.Pipes.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.AccessControl.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Claims.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.ValueTuple.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\vbc.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7_Client\Lab_7_Client\obj\Debug\Lab_7_Client.pdb

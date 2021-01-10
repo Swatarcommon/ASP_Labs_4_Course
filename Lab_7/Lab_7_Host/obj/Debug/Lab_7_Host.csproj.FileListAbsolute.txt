@@ -1,0 +1,38 @@
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csprojAssemblyReference.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csproj.CopyComplete
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7.pdb
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll.config
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csprojAssemblyReference.cache
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csproj.CopyComplete
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.exe
+C:\Users\maksim.stsefanenka\Downloads\Laby\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7_Host.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Lab_7.dll.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\bin\Debug\Newtonsoft.Json.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\Lab_7\Lab_7_Host\obj\Debug\Lab_7_Host.pdb

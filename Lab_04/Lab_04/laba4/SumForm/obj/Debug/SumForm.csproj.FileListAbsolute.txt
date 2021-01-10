@@ -1,0 +1,20 @@
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\bin\Debug\SumForm.exe.config
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\bin\Debug\SumForm.exe
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\bin\Debug\SumForm.pdb
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.csprojAssemblyReference.cache
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.Form1.resources
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.Properties.Resources.resources
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.csproj.GenerateResource.cache
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.exe
+D:\Univer\sem7\asp.net\labs\laba4\SumForm\obj\Debug\SumForm.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\bin\Debug\SumForm.exe.config
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\bin\Debug\SumForm.exe
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\bin\Debug\SumForm.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.Form1.resources
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.Properties.Resources.resources
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.csproj.GenerateResource.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.exe
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\SumForm\obj\Debug\SumForm.pdb

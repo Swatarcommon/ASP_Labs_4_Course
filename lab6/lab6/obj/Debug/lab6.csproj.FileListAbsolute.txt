@@ -1,0 +1,413 @@
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\lab6.dll.config
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\lab6.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\lab6.pdb
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csc.exe
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csc.exe.config
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csc.rsp
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csi.exe
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csi.exe.config
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\csi.rsp
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.AppContext.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Console.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.IO.Compression.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Net.Http.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.ValueTuple.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\vbc.exe
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\vbc.exe.config
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\vbc.rsp
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\VBCSCompiler.exe
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Antlr3.Runtime.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\EntityFramework.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\EntityFramework.SqlServer.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.Edm.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.OData.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Newtonsoft.Json.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Spatial.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Helpers.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Mvc.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Optimization.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Razor.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.Razor.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\WebGrease.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\EntityFramework.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\EntityFramework.SqlServer.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.Edm.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.OData.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Spatial.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Helpers.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Mvc.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Optimization.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.Razor.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\System.Web.WebPages.Razor.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Newtonsoft.Json.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Antlr3.Runtime.pdb
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\EntityFramework.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\de\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\es\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\fr\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\it\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ja\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ko\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\obj\Debug\lab6.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.Services.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.Data.Services.xml
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\de\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\es\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\fr\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\it\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ja\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ko\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\ru\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.dll
+C:\Users\Artem\Desktop\7_sem\web_service\labs\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.xml
+D:\ASP\4_1\lab6\lab6\bin\lab6.dll.config
+D:\ASP\4_1\lab6\lab6\bin\lab6.dll
+D:\ASP\4_1\lab6\lab6\bin\lab6.pdb
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csc.exe
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csc.exe.config
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csc.rsp
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csi.exe
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csi.exe.config
+D:\ASP\4_1\lab6\lab6\bin\roslyn\csi.rsp
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\4_1\lab6\lab6\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.AppContext.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Console.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.IO.Compression.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Net.Http.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Net.Sockets.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.ValueTuple.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Xml.XPath.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP\4_1\lab6\lab6\bin\roslyn\vbc.exe
+D:\ASP\4_1\lab6\lab6\bin\roslyn\vbc.exe.config
+D:\ASP\4_1\lab6\lab6\bin\roslyn\vbc.rsp
+D:\ASP\4_1\lab6\lab6\bin\roslyn\VBCSCompiler.exe
+D:\ASP\4_1\lab6\lab6\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\4_1\lab6\lab6\bin\Antlr3.Runtime.dll
+D:\ASP\4_1\lab6\lab6\bin\EntityFramework.dll
+D:\ASP\4_1\lab6\lab6\bin\EntityFramework.SqlServer.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.Edm.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.OData.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.Services.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.dll
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\4_1\lab6\lab6\bin\Newtonsoft.Json.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Spatial.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Helpers.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Mvc.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Optimization.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Razor.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.Deployment.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.dll
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.Razor.dll
+D:\ASP\4_1\lab6\lab6\bin\WebGrease.dll
+D:\ASP\4_1\lab6\lab6\bin\EntityFramework.xml
+D:\ASP\4_1\lab6\lab6\bin\EntityFramework.SqlServer.xml
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.Edm.xml
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.OData.xml
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.Data.Services.xml
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Spatial.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Helpers.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Mvc.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Optimization.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.Razor.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.Deployment.xml
+D:\ASP\4_1\lab6\lab6\bin\System.Web.WebPages.Razor.xml
+D:\ASP\4_1\lab6\lab6\bin\Newtonsoft.Json.xml
+D:\ASP\4_1\lab6\lab6\bin\Antlr3.Runtime.pdb
+D:\ASP\4_1\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\4_1\lab6\lab6\bin\ru\EntityFramework.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\de\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\es\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\it\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\de\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\es\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\fr\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\it\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ja\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ko\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\de\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\es\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\fr\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\it\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ja\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ko\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hans\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\zh-Hant\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.Helpers.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.Mvc.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.Optimization.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.Razor.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.WebPages.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ASP\4_1\lab6\lab6\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\ASP\4_1\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\ASP\4_1\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
+D:\ASP\4_1\lab6\lab6\obj\Debug\lab6.dll
+D:\ASP\4_1\lab6\lab6\obj\Debug\lab6.pdb
+D:\ASP\4_1\lab6\lab6\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\ASP\4_1\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\lab6.dll.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\lab6.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\lab6.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csc.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csc.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csc.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csi.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csi.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\csi.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.AppContext.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Collections.Immutable.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Console.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Globalization.Calendars.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.IO.Compression.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.IO.FileSystem.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Net.Http.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Net.Sockets.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.ValueTuple.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Xml.XPath.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\vbc.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\vbc.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\vbc.rsp
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\VBCSCompiler.exe
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\roslyn\VBCSCompiler.exe.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Antlr3.Runtime.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\EntityFramework.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\EntityFramework.SqlServer.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.Edm.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.OData.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.Services.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Web.Infrastructure.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Newtonsoft.Json.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Spatial.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Helpers.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Mvc.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Optimization.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Razor.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.Deployment.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.Razor.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\WebGrease.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\EntityFramework.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\EntityFramework.SqlServer.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.Edm.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.OData.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.Data.Services.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.OData.EntityFrameworkProvider.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Spatial.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Helpers.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Mvc.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Optimization.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.Razor.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.Deployment.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\System.Web.WebPages.Razor.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Newtonsoft.Json.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Antlr3.Runtime.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\EntityFramework.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\de\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\es\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\it\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\de\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\es\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\fr\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\it\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ja\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ko\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\de\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\es\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\fr\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\it\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ja\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ko\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hans\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\zh-Hant\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.Helpers.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.Mvc.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.Optimization.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.Razor.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.WebPages.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\obj\Debug\lab6.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\lab6\obj\Debug\lab6.pdb

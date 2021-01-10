@@ -1,0 +1,106 @@
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.dll.config
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.pdb
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Edm.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.OData.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\System.Spatial.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Edm.xml
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.OData.xml
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Services.Client.xml
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\System.Spatial.xml
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\de\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\es\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\fr\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\it\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ja\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ko\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\ru\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csprojAssemblyReference.cache
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csproj.CopyComplete
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.dll
+D:\ASP\4_1\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.dll.config
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\SyndicationServiceLibrary1.pdb
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Edm.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.OData.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\System.Spatial.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Edm.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.OData.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\System.Spatial.xml
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\de\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\es\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\fr\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\it\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ja\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ko\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\ru\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.dll
+C:\Disk D\Studying\Course_4\ASP\6and7_for_lab\lab6\SyndicationServiceLibrary1\obj\Debug\SyndicationServiceLibrary1.pdb

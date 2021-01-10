@@ -1,0 +1,22 @@
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\bin\Debug\ProxyForm.exe.config
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\bin\Debug\ProxyForm.exe
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\bin\Debug\ProxyForm.pdb
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.csprojAssemblyReference.cache
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.Properties.Resources.resources
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.csproj.GenerateResource.cache
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.exe
+D:\Univer\sem7\asp.net\labs\laba4\ProxyForm\obj\Debug\ProxyForm.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\ProxyForm.exe.config
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\ProxyForm.exe
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\ProxyForm.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\laba4.dll
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\laba4.pdb
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\bin\Debug\laba4.dll.config
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.Properties.Resources.resources
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.csproj.GenerateResource.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.exe
+C:\Disk D\Studying\Course_4\ASP\Lab_04\Lab_04\laba4\ProxyForm\obj\Debug\ProxyForm.pdb

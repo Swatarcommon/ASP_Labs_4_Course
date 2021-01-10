@@ -1,0 +1,22 @@
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\Host.exe.config
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\Host.exe
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\Host.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\Univer\sem7\asp.net\labs\laba5\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\Univer\sem7\asp.net\labs\laba5\Host\obj\Debug\Host.exe
+D:\Univer\sem7\asp.net\labs\laba5\Host\obj\Debug\Host.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\WCF.dll
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\WCF.pdb
+D:\Univer\sem7\asp.net\labs\laba5\Host\bin\Debug\WCF.dll.config
+D:\Univer\sem7\asp.net\labs\laba5\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\Host.exe.config
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\Host.exe
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\Host.pdb
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\WCF.dll
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\WCF.pdb
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\bin\Debug\WCF.dll.config
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\obj\Debug\Host.exe
+C:\Disk D\Studying\Course_4\ASP\laba5\Host\obj\Debug\Host.pdb
